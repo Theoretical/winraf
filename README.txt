@@ -2,4 +2,6 @@ Command-line compression/decompression tool for .raf / .raf.dat archive pairs as
 
 All credits for reverse engineering the .raf / .raf.dat data structures go to GorbyRU (US server). See http://www.leagueoflegends.com/board/showthread.php?t=649185&page=8.
 
+UPDATE: Riot has disclosed Riot Archive File (RAF) file format specifications. See http://www.leagueoflegends.com/board/showthread.php?t=701772.
+
 Due to being in the early stages of development, this tool currently only supports decompression and has been written in a VERY "quick and dirty" manner.
