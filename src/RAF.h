@@ -30,6 +30,11 @@ typedef ifstream::pos_type pos_type;
 typedef unsigned int raf_int;
 typedef unsigned char byte;
 
+/*
+ * Models .raf file structure.
+ *
+ * See http://www.leagueoflegends.com/board/showthread.php?t=649185&page=8.
+ */
 class RAF {
 
 public:
