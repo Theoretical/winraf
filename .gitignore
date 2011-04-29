@@ -1,0 +1,4 @@
+*.raf
+*.raf.dat
+Debug/
+test/
